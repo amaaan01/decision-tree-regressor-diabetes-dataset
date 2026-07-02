@@ -16,8 +16,11 @@ Decision Tree Regressor
 - Matplotlib
 
 ## Results
-MAE: ...
-R² Score: ...
+
+| Metric | Score |
+|----------|----------|
+| Test MSE | 3177.66 |
+| Test R² Score | 0.4114 |
 
 ## How to Run
 pip install -r requirements.txt
